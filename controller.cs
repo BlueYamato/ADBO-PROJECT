@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using UnityEngine.SceneManagement;public class controller : MonoBehaviour
+using UnityEngine.SceneManagement;public class PocongController : MonoBehaviour
 {
 
 	private Vector2 jumpForce = new Vector2(0, 300);
