@@ -2,7 +2,7 @@
 using UnityEngine.SceneManagement;public class controller : MonoBehaviour
 {
 
-	private Vector2 jumpForce = new Vector2(0, 300);
+	private Vector2 jumpForce = new Vector2(0, 500);
 
 	private double jumpCount=1; 
 	public bool isJump;
